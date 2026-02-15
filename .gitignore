@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ML/Data Science
+data/
+*.csv
+*.json
+*.weights
+*.h5
+*.pth
+*.pkl
+
+# OS files
+.DS_Store
+EOT
